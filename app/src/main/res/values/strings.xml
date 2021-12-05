@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stack Exchange User</string>
+
+    <string name="load_user_error_message">Could not load user. Try again later</string>
+
+    <string name="user_detail_name">Name: %s</string>
+    <string name="user_detail_reputation">Reputation count: %s</string>
+    <string name="user_detail_type">Type: %s</string>
+    <string name="user_detail_badges">Badges: %s</string>
+    <string name="user_detail_location">Location: %s</string>
+    <string name="user_detail_created_on">Created on: %s</string>
+</resources>
